@@ -51,3 +51,5 @@ Pour arrêter : fermez la fenêtre noire (Windows) ou la fenêtre Terminal (Mac 
 Le code du template est sous licence MIT ; le contenu que vous écrivez vous appartient.
 
 Modifications
+
+jde
